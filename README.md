@@ -3,4 +3,8 @@ Udemy Flask course
 
 # **Summary**
 
-This project is only for education and practice with Flask! :D
+This project is only for education and test with Flask! :D
+
+Deploy on Heroku.
+
+
