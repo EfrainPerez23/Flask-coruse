@@ -1,4 +1,4 @@
-# Flask-coruse
+# Flask-course
 Udemy Flask course
 
 # **Summary**
